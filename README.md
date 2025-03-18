@@ -1,3 +1,3 @@
 # Scoring-Algorithm
-College project 2  
+project   
 Comparing two different data set and outputting a score
